@@ -1,3 +1,5 @@
 *.lck
 *.fsat
 *.fmsh
+*.gcode
+*.plgx
