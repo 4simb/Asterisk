@@ -3,3 +3,5 @@
 *.fmsh
 *.gcode
 *.plgx
+*.ppf
+*.plgs
