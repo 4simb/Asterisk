@@ -1,0 +1,173 @@
+Removed Member From Class: ClassName=main Member=Vbat
+Change Component Footprint: Designator=Vbat Old Footprint=LED0603_RED New Footprint=LED0603_GREEN
+Change Component Comment : Designator=XP12 Old Comment=+3V3 New Comment=JST_B2B-XH-A(LF)(SN)
+Change Component Comment : Designator=R62 Old Comment=1K New Comment=4.7K
+Change Component Comment : Designator=R63 Old Comment=1K New Comment=4.7K
+Change Component Comment : Designator=R64 Old Comment=1K New Comment=4.7K
+Change Component Comment : Designator=R65 Old Comment=1K New Comment=4.7K
+Change Component Comment : Designator=3v3 Old Comment=3V3 New Comment=Green
+Change Component Comment : Designator=R66 Old Comment=4.7K New Comment=36K
+Change Component Comment : Designator=R54 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=12v Old Comment=12V New Comment=Green
+Change Component Comment : Designator=L1 Old Comment=47uH New Comment=47uH 2A
+Change Component Comment : Designator=HL3 Old Comment=48v New Comment=Green
+Change Component Comment : Designator=C16 Old Comment=220uF New Comment=25V 220uF
+Change Component Comment : Designator=R39 Old Comment=300K New Comment=200K
+Change Component Comment : Designator=C36 Old Comment=330uF New Comment=10V 330uF
+Change Component Comment : Designator=C2 Old Comment=470uF New Comment=25V 470uF
+Change Component Comment : Designator=XP3 Old Comment=BALL_LED New Comment=JST_B2B-XH-A(LF)(SN)
+Change Component Comment : Designator=XP5 Old Comment=BALL_SEN New Comment=JST_B2B-XH-A(LF)(SN)
+Change Component Comment : Designator=XP20 Old Comment=BAT New Comment=XT30
+Change Component Comment : Designator=HL2 Old Comment=BG New Comment=White
+Change Component Comment : Designator=SB3 Old Comment=BTN1 New Comment=DTSM-61N-V-T/R
+Change Component Comment : Designator=SB4 Old Comment=BTN2 New Comment=DTSM-61N-V-T/R
+Change Component Comment : Designator=SB6 Old Comment=BTN3 New Comment=DTSM-61N-V-T/R
+Change Component Comment : Designator=XP4 Old Comment=CAP New Comment=JST_B2B-XH-A(LF)(SN)
+Change Component Comment : Designator=VD3 Old Comment=Diode Schottky New Comment=
+Change Component Comment : Designator=VD5 Old Comment=Diode Schottky New Comment=
+Change Component Comment : Designator=VD6 Old Comment=Diode Schottky New Comment=
+Change Component Comment : Designator=VD1 Old Comment=Diode TVS New Comment=
+Change Component Comment : Designator=VD2 Old Comment=Diode TVS New Comment=
+Change Component Comment : Designator=XP14 Old Comment=ESC_IN New Comment=JST_B2B-XH-A(LF)(SN)
+Change Component Comment : Designator=XP15 Old Comment=ESC_PWR New Comment=XT30
+Change Component Comment : Designator=HL10 Old Comment=GK New Comment=White
+Change Component Comment : Designator=SW3 Old Comment=Goal New Comment=ESP1010
+Change Component Comment : Designator=XP7 Old Comment=HC-05 New Comment=JST_B4B-XH-A(LF)(SN)
+Change Component Comment : Designator=XP13 Old Comment=I2C New Comment=JST_B4B-XH-A(LF)(SN)
+Change Component Comment : Designator=XP10 Old Comment=IMU New Comment=JST_B4B-XH-A(LF)(SN)
+Change Component Comment : Designator=HL1 Old Comment=LED1 New Comment=White
+Change Component Comment : Designator=HL7 Old Comment=LED2 New Comment=White
+Change Component Comment : Designator=HL4 Old Comment=LED3 New Comment=White
+Change Component Comment : Designator=XP1 Old Comment=Line Board New Comment=JST_B8B-XH-A(LF)(SN)
+Change Component Comment : Designator=XP16 Old Comment=M1 New Comment=JST_B2B-XH-A(LF)(SN)
+Change Component Comment : Designator=XP17 Old Comment=M2 New Comment=JST_B2B-XH-A(LF)(SN)
+Change Component Comment : Designator=XP18 Old Comment=M3 New Comment=JST_B2B-XH-A(LF)(SN)
+Change Component Comment : Designator=XP19 Old Comment=M4 New Comment=JST_B2B-XH-A(LF)(SN)
+Change Component Comment : Designator=HL12 Old Comment=M_ON New Comment=Red
+Change Component Comment : Designator=SW4 Old Comment=Motor New Comment=ESP1010
+Change Component Comment : Designator=XP9 Old Comment=OpenMV New Comment=JST_B4B-XH-A(LF)(SN)
+Change Component Comment : Designator=SB7 Old Comment=PTS636 SP43 LFS New Comment=TACT 6.0 X 3.5
+Change Component Comment : Designator=Vbat Old Comment=Red New Comment=Green
+Change Component Comment : Designator=SB2 Old Comment=RESET New Comment=DTSM-61N-V-T/R
+Change Component Comment : Designator=SB5 Old Comment=RESET_IMU New Comment=DTSM-61N-V-T/R
+Change Component Comment : Designator=SW2 Old Comment=Role New Comment=ESP1010
+Change Component Comment : Designator=XP6 Old Comment=Solenoid New Comment=JST_B2B-XH-A(LF)(SN)
+Change Component Comment : Designator=XP11 Old Comment=SPI New Comment=JST_B4B-XH-A(LF)(SN)
+Change Component Comment : Designator=HL8 Old Comment=ST New Comment=White
+Change Component Comment : Designator=XP8 Old Comment=ST-Lnk New Comment=3x2.54
+Change Component Comment : Designator=XP2 Old Comment=TSOP Board New Comment=JST_B8B-XH-A(LF)(SN)
+Change Component Comment : Designator=XP21 Old Comment=XL6009 IN New Comment=JST_B2B-XH-A(LF)(SN)
+Change Component Comment : Designator=XP22 Old Comment=XL6009 OUT New Comment=JST_B2B-XH-A(LF)(SN)
+Change Component Comment : Designator=HL5 Old Comment=YG New Comment=White
+Change Component Designator: OldDesignator=3v3 NewDesignator=HL11
+Change Component Designator: OldDesignator=12v NewDesignator=HL6
+Change Component Designator: OldDesignator=25% NewDesignator=HL16
+Change Component Designator: OldDesignator=50% NewDesignator=HL15
+Change Component Designator: OldDesignator=75% NewDesignator=HL14
+Change Component Designator: OldDesignator=100% NewDesignator=HL13
+Change Component Designator: OldDesignator=HC-05 NewDesignator=BT1
+Change Component Designator: OldDesignator=USB NewDesignator=J1
+Change Component Designator: OldDesignator=Vbat NewDesignator=HL17
+Change Component Description : Designator=XP20 Old Description= New Description=BAT
+Change Component Description : Designator=SB3 Old Description= New Description=BTN1
+Change Component Description : Designator=SB4 Old Description= New Description=BTN2
+Change Component Description : Designator=SB6 Old Description= New Description=BTN3
+Change Component Description : Designator=SB1 Old Description= New Description=Button
+Change Component Description : Designator=VD3 Old Description= New Description=Diode Schottky
+Change Component Description : Designator=VD5 Old Description= New Description=Diode Schottky
+Change Component Description : Designator=VD6 Old Description= New Description=Diode Schottky
+Change Component Description : Designator=C3 Old Description= New Description=Electrolytic Cap
+Change Component Description : Designator=XP15 Old Description= New Description=ESC_PWR
+Change Component Description : Designator=L1 Old Description= New Description=Inductance
+Change Component Description : Designator=SB2 Old Description= New Description=RESET
+Change Component Description : Designator=SB5 Old Description= New Description=RESET_IMU
+Change Component Description : Designator=XP8 Old Description= New Description=SWD header
+Change Component Description : Designator=SW3 Old Description=2 pos switch New Description=Goal
+Change Component Description : Designator=SW4 Old Description=2 pos switch New Description=Motor
+Change Component Description : Designator=SW2 Old Description=2 pos switch New Description=Role
+Change Component Description : Designator=SW1 Old Description=2 pos switch New Description=SW1
+Change Component Description : Designator=G1 Old Description=24MHz ±10ppm Crystal 9pF 40 Ohms 4-SMD, No Lead New Description=quartz 16MHz
+Change Component Description : Designator=C2 Old Description=25V New Description=Electrolytic Cap
+Change Component Description : Designator=C36 Old Description=25V New Description=Electrolytic Cap
+Change Component Description : Designator=C16 Old Description=50V New Description=Electrolytic Cap
+Change Component Description : Designator=U1 Old Description=ARM Cortex-M4 32-bit MCU+FPU, 210 DMIPS, 1024 kB Flash, 192 kB Internal RAM, 82 I/Os, 100-pin LQFP, -40 to 85 degC, Tray New Description=
+Change Component Description : Designator=BT1 Old Description=Bluetooth HC-05 New Description=Bluetooth
+Change Component Description : Designator=XP12 Old Description=JST_B2B-XH-A(LF)(SN) New Description=+3V3
+Change Component Description : Designator=XP3 Old Description=JST_B2B-XH-A(LF)(SN) New Description=BALL_LED
+Change Component Description : Designator=XP5 Old Description=JST_B2B-XH-A(LF)(SN) New Description=BALL_SEN
+Change Component Description : Designator=XP4 Old Description=JST_B2B-XH-A(LF)(SN) New Description=CAP
+Change Component Description : Designator=XP14 Old Description=JST_B2B-XH-A(LF)(SN) New Description=ESC_IN
+Change Component Description : Designator=XP16 Old Description=JST_B2B-XH-A(LF)(SN) New Description=M1
+Change Component Description : Designator=XP17 Old Description=JST_B2B-XH-A(LF)(SN) New Description=M2
+Change Component Description : Designator=XP18 Old Description=JST_B2B-XH-A(LF)(SN) New Description=M3
+Change Component Description : Designator=XP19 Old Description=JST_B2B-XH-A(LF)(SN) New Description=M4
+Change Component Description : Designator=XP6 Old Description=JST_B2B-XH-A(LF)(SN) New Description=Solenoid
+Change Component Description : Designator=XP21 Old Description=JST_B2B-XH-A(LF)(SN) New Description=XL6009 IN
+Change Component Description : Designator=XP22 Old Description=JST_B2B-XH-A(LF)(SN) New Description=XL6009 OUT
+Change Component Description : Designator=XP7 Old Description=JST_B4B-XH-A(LF)(SN) New Description=HC-05
+Change Component Description : Designator=XP13 Old Description=JST_B4B-XH-A(LF)(SN) New Description=I2C
+Change Component Description : Designator=XP10 Old Description=JST_B4B-XH-A(LF)(SN) New Description=IMU
+Change Component Description : Designator=XP9 Old Description=JST_B4B-XH-A(LF)(SN) New Description=OpenMV
+Change Component Description : Designator=XP11 Old Description=JST_B4B-XH-A(LF)(SN) New Description=SPI
+Change Component Description : Designator=XP1 Old Description=JST_B8B-XH-A(LF)(SN) New Description=Line Board
+Change Component Description : Designator=XP2 Old Description=JST_B8B-XH-A(LF)(SN) New Description=TSOP Board
+Change Component Description : Designator=HL11 Old Description=LED smd New Description=3V3 power
+Change Component Description : Designator=HL6 Old Description=LED smd New Description=12V power
+Change Component Description : Designator=HL3 Old Description=LED smd New Description=48V power
+Change Component Description : Designator=HL2 Old Description=LED smd New Description=BG
+Change Component Description : Designator=HL10 Old Description=LED smd New Description=GK
+Change Component Description : Designator=HL1 Old Description=LED smd New Description=LED1
+Change Component Description : Designator=HL7 Old Description=LED smd New Description=LED2
+Change Component Description : Designator=HL4 Old Description=LED smd New Description=LED3
+Change Component Description : Designator=HL12 Old Description=LED smd New Description=M_ON
+Change Component Description : Designator=HL18 Old Description=LED smd New Description=SMD LED
+Change Component Description : Designator=HL19 Old Description=LED smd New Description=SMD LED
+Change Component Description : Designator=HL8 Old Description=LED smd New Description=ST
+Change Component Description : Designator=HL5 Old Description=LED smd New Description=YG
+Change Component Description : Designator=VD1 Old Description=Protective diode New Description=Diode TVS
+Change Component Description : Designator=VD2 Old Description=Protective diode New Description=Diode TVS
+Change Component Description : Designator=SB7 Old Description=TACT 6.0 X 3.5, 4.3 MM H, 320GF, New Description=Button
+Change Component Description : Designator=J1 Old Description=USB4145-04-0070-C New Description=SWD port
+Change Component Description : Designator=D1 Old Description=Zener Diode
+BZV55C8V2 New Description=BZV55C3V3
+Change Component Description : Designator=D2 Old Description=Zener Diode
+BZV55C8V2 New Description=BZV55C8V2
+Added Member To Class: ClassName=main Member=Component HL6 Green
+Added Member To Class: ClassName=U_connectors Member=Component R2 10K
+Added Member To Class: ClassName=U_connectors Member=Component R3 10K
+Added Member To Class: ClassName=U_drv Member=Component R4 10K
+Added Member To Class: ClassName=U_drv Member=Component R5 10K
+Added Member To Class: ClassName=U_drv Member=Component R6 10K
+Added Member To Class: ClassName=U_drv Member=Component R7 10K
+Added Member To Class: ClassName=U_drv Member=Component R8 10K
+Added Member To Class: ClassName=U_drv Member=Component R9 10K
+Added Member To Class: ClassName=U_drv Member=Component R10 10K
+Added Member To Class: ClassName=U_drv Member=Component R11 10K
+Added Member To Class: ClassName=U_switches Member=Component R14 10K
+Added Member To Class: ClassName=U_switches Member=Component R15 10K
+Added Member To Class: ClassName=U_switches Member=Component R17 10K
+Added Member To Class: ClassName=main Member=Component R18 10K
+Added Member To Class: ClassName=main Member=Component R19 10K
+Added Member To Class: ClassName=main Member=Component R20 10K
+Added Member To Class: ClassName=main Member=Component R22 10K
+Added Member To Class: ClassName=U_switches Member=Component R35 10K
+Added Member To Class: ClassName=U_switches Member=Component R36 10K
+Added Member To Class: ClassName=U_switches Member=Component R38 10K
+Added Member To Class: ClassName=U_switches Member=Component R41 10K
+Added Member To Class: ClassName=U_switches Member=Component R42 10K
+Added Member To Class: ClassName=U_switches Member=Component R43 10K
+Added Member To Class: ClassName=U_switches Member=Component R44 10K
+Added Member To Class: ClassName=main Member=Component R46 10K
+Added Member To Class: ClassName=main Member=Component R47 10K
+Added Member To Class: ClassName=U_indicator Member=Component R54 1K
+Added Member To Class: ClassName=U_indicator Member=Component R60 10K
+Added Member To Class: ClassName=U_bluetooth Member=Component R67 10K
+Added Member To Class: ClassName=U_bluetooth Member=Component R68 10K
+Added Member To Class: ClassName=U_bluetooth Member=Component R73 10K
+Added Room: Name=main
+Added Room: Name=U_bluetooth
+Added Room: Name=U_connectors
+Added Room: Name=U_drv
+Added Room: Name=U_indicator
+Added Room: Name=U_stabs
+Added Room: Name=U_switches
